@@ -1,0 +1,65 @@
+body{
+	font-family: "Impact";
+	background-color: black;
+	color: lightgreen;
+}
+/*----------------------------------------------------------------------------------------------------------*/
+#header{
+	text-align: center;
+}
+#title{
+	text-decoration: underline;
+}
+.eagle-div{
+	text-align: center;
+}
+.eagle-image{
+	length: 400px;
+	width: 400px;
+}
+/*-----------------------------------------------------------------------------------------------------------*/
+#cartext{
+	text-align: center;
+}
+.mustang-div{
+	text-align: center;
+}
+.mustang-image{
+	length: 800px;
+	width: 800px;
+	outline: groove;
+	outline-width: thick;
+}	
+.chrysler-div{
+	text-align: center;
+}
+.chrysler-image{
+	length: 800px;
+	width: 800px;
+	outline-style: groove;
+	outline-width: thick;
+}
+.lambo-div{
+	text-align: center;
+}
+.lambo-image{
+	length: 800px;
+	width: 800px;
+	outline-style: groove;
+	outline-width: thick;
+}
+.mustang-divtwo{
+	text-align: center;
+}
+.mustang-imagetwo{
+	length: 800px;
+	width: 800px;
+	outline-style: groove;
+	outline-width: thick;
+}
+/*------------------------------------------------------------------------------------------------------------*/
+#footer{
+	text-align: center;
+	font-size: 26px;
+}
+			

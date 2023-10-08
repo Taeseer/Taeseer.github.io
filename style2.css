@@ -1,0 +1,32 @@
+body{
+	background-color: black;
+	font-family: "Impact";
+	color: lightgreen;
+}
+/*<!----------------------------------------------------------------------------------------------*/
+#header{
+	text-align: center;
+}
+#title{
+	text-decoration: underline;
+}
+.eagle-div{
+				text-align: center;
+			}
+			.eagle-image{
+				length: 400px;
+				width: 400px;
+			}
+/*<-----------------------------------------------------------------------------------------------*/
+#about{
+	text-align: center;
+}
+.paragraph{
+	font-family: "Times New Roman";
+	text-align: center;
+}
+/*<!----------------------------------------------------------------------------------------------*/
+#footer{
+	text-align: center;
+	font-size: 26px;
+}
